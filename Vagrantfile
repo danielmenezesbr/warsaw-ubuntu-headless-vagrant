@@ -2,8 +2,8 @@
 # vi: set ft=ruby :
 
 # TODO:
-#   teste_caixa.py
-#       verificar melhor local (dentro ou fora do container)
+#   performance:
+#       uma box pré-configurada poderia melhorar o tempo de provisionamento do ambiente
 #   documentação:
 #       fazer vídeo demonstrativo.
 #       create readme.md
